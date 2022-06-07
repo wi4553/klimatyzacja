@@ -1,1 +1,2 @@
 # klimatyzacja
+Automatyczna klimatyzacja AI.
